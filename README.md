@@ -31,21 +31,11 @@ If you don't have an API Key then [CREATE HERE](https://developer.themoviedb.org
 
 -----
 
-## Color Reference
 
 ### Dark Theme
 
 --------
 
-
-Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#1F1F1FFF](https://via.placeholder.com/10/1F1F1FFF?text=+) #1F1F1FFF |
-| Secondary Color | ![#282828FF](https://via.placeholder.com/10/282828FF?text=+) #282828FF |
-| Gradient From Color | ![#2B5EE5FF](https://via.placeholder.com/10/2B5EE5FF?text=+) #2B5EE5FF |
-| Gradiant To Color | ![#EF63E6FF](https://via.placeholder.com/10/EF63E6FF?text=+) #EF63E6FF |
-| Active Text Color | ![#FFFFFFFF](https://via.placeholder.com/10/FFFFFFFF?text=+) #FFFFFFFF |
-| Inactive Text Color | ![#BDBDBDFF](https://via.placeholder.com/10/BDBDBDFF?text=+) #BDBDBDFF |
 
 ### Light Theme
 
