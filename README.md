@@ -5,6 +5,10 @@
 The "Movie App flutter main" project using themoviedb API is a mobile application designed to provide users with up-to-date movie status information. 
 
 
+
+https://github.com/Maliud/movie-app/assets/72108306/041131b8-22e9-47aa-bb35-c5862e01e396
+
+
 ## Tech Stack
 
 **Client:** Flutter, Dart
@@ -26,28 +30,28 @@ If you don't have an API Key then [CREATE HERE](https://developer.themoviedb.org
 ## Screenshots
 
 
-
-### Light Theme
-
------
-
-
 ### Dark Theme
 
---------
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 28 54](https://github.com/Maliud/movie-app/assets/72108306/b05d484d-b6dc-4996-b11d-f13464d072ce)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 29 01](https://github.com/Maliud/movie-app/assets/72108306/e838fb38-5342-4412-af2c-23f56bcdbf73)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 29 06](https://github.com/Maliud/movie-app/assets/72108306/aab0fe49-62ff-4661-86d3-a284359d451a)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 29 15](https://github.com/Maliud/movie-app/assets/72108306/90b261c9-6339-445e-9fd4-fd85a33bc4ff)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 29 39](https://github.com/Maliud/movie-app/assets/72108306/63802d9a-76a3-4b7b-8c24-69f808d6f6a0)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 29 55](https://github.com/Maliud/movie-app/assets/72108306/5c4a9034-7830-4eda-811c-d0000ac8e3a2)
 
 
 ### Light Theme
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 30 15](https://github.com/Maliud/movie-app/assets/72108306/fc8cea4a-bb5b-43dd-8b94-3dc3f6bb5498)
 
-## Fonts
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 30 34](https://github.com/Maliud/movie-app/assets/72108306/7b235874-0b2f-4cbc-be24-c642aaa0454c)
 
-[Poppins](https://github.com/Maliud/weather-app-flutter-main/tree/main/assets/fonts)
-## Icon Assets
 
-[Weather Icons Folder](https://github.com/Maliud/weather-app-flutter-main/tree/main/assets/weather)
-
-[Icons Folder](https://github.com/Maliud/weather-app-flutter-main/tree/main/assets/icons)
 
 ## Installation
 
